@@ -1,0 +1,10 @@
+/vendor
+/node_modules/*
+/stubs
+/tests/*
+/storage/*
+/storage
+.env
+.phpstorm.meta.php
+/.env
+core/bootstrap/cache
